@@ -1,0 +1,32 @@
+[20-07-29 16:56:41] [PicqBotX] [INFO] 
+[20-07-29 16:56:41] [PicqBotX] [INFO]     ____  _            ____        __ _  __
+[20-07-29 16:56:41] [PicqBotX] [INFO]    / __ \(_)________ _/ __ )____  / /| |/ /
+[20-07-29 16:56:41] [PicqBotX] [INFO]   / /_/ / / ___/ __ `/ __  / __ \/ __/   /
+[20-07-29 16:56:41] [PicqBotX] [INFO]  / ____/ / /__/ /_/ / /_/ / /_/ / /_/   |
+[20-07-29 16:56:41] [PicqBotX] [INFO] /_/   /_/\___/\__, /_____/\____/\__/_/|_|
+[20-07-29 16:56:41] [PicqBotX] [INFO]                 /_/         v4.15.0.1058
+[20-07-29 16:56:41] [PicqBotX] [INFO] 日志管理器     初始化完成 [******] ...(9.31 ms)
+[20-07-29 16:56:41] [PicqBotX] [INFO] 缓存管理器     初始化完成 [******] ...(0.53 ms)
+[20-07-29 16:56:41] [PicqBotX] [INFO] DEBUG设置     初始化完成 [******] ...(0.01 ms)
+[20-07-29 16:56:41] [PicqBotX] [INFO] 事件管理器     初始化完成 [******] ...(4.88 ms)
+[20-07-29 16:56:41] [PicqBotX] [INFO] 账号管理器     初始化完成 [******] ...(0.4 ms)
+[20-07-29 16:56:41] [PicqBotX] [INFO] HTTP监听服务器 初始化完成 [******] ...(0.31 ms)
+[20-07-29 16:56:41] [PicqBotX] [INFO] MagicBotDebug 已经注册机器人账号:二号机本机测试
+[20-07-29 16:56:41] [PicqBotX] [INFO] 指令管理器     初始化完成 [******] ...(0.54 ms)
+[20-07-29 16:56:41] [PicqBotX] [WARNING] 账号 二号机本机测试: 版本正确, 不过用酷Q Pro的话效果更好哦!
+[20-07-29 16:56:41] [PicqBotX] [INFO] 账号 二号机本机测试:   版本验证完成!
+[20-07-29 16:56:41] [PicqBotX] [INFO] 正在启动...
+[20-07-29 16:56:41] [PicqBotX] [INFO] MagicBotDebug 启动成功!
+[20-07-29 16:56:41] [SqlLite] [INFO]  已经找到数据文件!
+[20-07-29 16:56:41] [SqlLite] [INFO]  开始校验数据版本!
+[20-07-29 16:56:41] [SqlLite] [INFO]  当前版本:0.0.3,最新版本:0.0.3
+[20-07-29 16:56:46] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:56:46] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"font":10272192,"message":"!能吃  豆腐","message_id":3608,"message_type":"private","post_type":"message","raw_message":"!能吃  豆腐","self_id":1135149924,"sender":{"age":26,"nickname":"白","sex":"male","user_id":418379149},"sub_type":"friend","time":1596013006,"user_id":418379149}
+[20-07-29 16:56:52] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:56:52] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"font":9987280,"message":"！能吃 豆腐","message_id":3610,"message_type":"private","post_type":"message","raw_message":"！能吃 豆腐","self_id":1135149924,"sender":{"age":26,"nickname":"白","sex":"male","user_id":418379149},"sub_type":"friend","time":1596013012,"user_id":418379149}
+[20-07-29 16:56:52] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:56:52] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":10268056,"group_id":1064022852,"message":"说来惭愧","message_id":3612,"message_type":"group","post_type":"message","raw_message":"说来惭愧","self_id":1135149924,"sender":{"age":21,"area":"","card":"宝可夜","level":"冒泡","nickname":"变成昆虫的雪","role":"member","sex":"male","title":"","user_id":876145530},"sub_type":"normal","time":1596013012,"user_id":876145530}
+[20-07-29 16:56:55] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:56:55] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":9961656,"group_id":1064022852,"message":"在等六点体力","message_id":3613,"message_type":"group","post_type":"message","raw_message":"在等六点体力","self_id":1135149924,"sender":{"age":21,"area":"","card":"宝可夜","level":"冒泡","nickname":"变成昆虫的雪","role":"member","sex":"male","title":"","user_id":876145530},"sub_type":"normal","time":1596013015,"user_id":876145530}
+[20-07-29 16:57:03] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:57:03] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"font":10270312,"message":"！能吃  豆腐","message_id":3614,"message_type":"private","post_type":"message","raw_message":"！能吃  豆腐","self_id":1135149924,"sender":{"age":26,"nickname":"白","sex":"male","user_id":418379149},"sub_type":"friend","time":1596013023,"user_id":418379149}

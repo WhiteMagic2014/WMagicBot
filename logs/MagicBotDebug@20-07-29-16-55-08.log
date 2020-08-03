@@ -1,0 +1,44 @@
+[20-07-29 16:55:08] [PicqBotX] [INFO] 
+[20-07-29 16:55:08] [PicqBotX] [INFO]     ____  _            ____        __ _  __
+[20-07-29 16:55:08] [PicqBotX] [INFO]    / __ \(_)________ _/ __ )____  / /| |/ /
+[20-07-29 16:55:08] [PicqBotX] [INFO]   / /_/ / / ___/ __ `/ __  / __ \/ __/   /
+[20-07-29 16:55:08] [PicqBotX] [INFO]  / ____/ / /__/ /_/ / /_/ / /_/ / /_/   |
+[20-07-29 16:55:08] [PicqBotX] [INFO] /_/   /_/\___/\__, /_____/\____/\__/_/|_|
+[20-07-29 16:55:08] [PicqBotX] [INFO]                 /_/         v4.15.0.1058
+[20-07-29 16:55:08] [PicqBotX] [INFO] 日志管理器     初始化完成 [******] ...(9.33 ms)
+[20-07-29 16:55:08] [PicqBotX] [INFO] 缓存管理器     初始化完成 [******] ...(0.58 ms)
+[20-07-29 16:55:08] [PicqBotX] [INFO] DEBUG设置     初始化完成 [******] ...(0.01 ms)
+[20-07-29 16:55:08] [PicqBotX] [INFO] 事件管理器     初始化完成 [******] ...(4.95 ms)
+[20-07-29 16:55:08] [PicqBotX] [INFO] 账号管理器     初始化完成 [******] ...(0.48 ms)
+[20-07-29 16:55:08] [PicqBotX] [INFO] HTTP监听服务器 初始化完成 [******] ...(0.33 ms)
+[20-07-29 16:55:08] [PicqBotX] [INFO] MagicBotDebug 已经注册机器人账号:二号机本机测试
+[20-07-29 16:55:08] [PicqBotX] [INFO] 指令管理器     初始化完成 [******] ...(0.54 ms)
+[20-07-29 16:55:08] [PicqBotX] [WARNING] 账号 二号机本机测试: 版本正确, 不过用酷Q Pro的话效果更好哦!
+[20-07-29 16:55:08] [PicqBotX] [INFO] 账号 二号机本机测试:   版本验证完成!
+[20-07-29 16:55:08] [PicqBotX] [INFO] 正在启动...
+[20-07-29 16:55:08] [PicqBotX] [INFO] MagicBotDebug 启动成功!
+[20-07-29 16:55:08] [SqlLite] [INFO]  已经找到数据文件!
+[20-07-29 16:55:08] [SqlLite] [INFO]  开始校验数据版本!
+[20-07-29 16:55:08] [SqlLite] [INFO]  当前版本:0.0.3,最新版本:0.0.3
+[20-07-29 16:55:21] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:21] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":9961656,"group_id":362656777,"message":"国外人监控了 不能咋样","message_id":3595,"message_type":"group","post_type":"message","raw_message":"国外人监控了 不能咋样","self_id":1135149924,"sender":{"age":0,"area":"","card":"我要白又大！","level":"师兄","nickname":"NZ最棒了！","role":"admin","sex":"unknown","title":"蒙蒙的蒙蒙","user_id":2389239892},"sub_type":"normal","time":1596012921,"user_id":2389239892}
+[20-07-29 16:55:34] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:34] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":9961656,"group_id":362656777,"message":"国内看到了 那就喝茶了","message_id":3596,"message_type":"group","post_type":"message","raw_message":"国内看到了 那就喝茶了","self_id":1135149924,"sender":{"age":0,"area":"","card":"我要白又大！","level":"师兄","nickname":"NZ最棒了！","role":"admin","sex":"unknown","title":"蒙蒙的蒙蒙","user_id":2389239892},"sub_type":"normal","time":1596012933,"user_id":2389239892}
+[20-07-29 16:55:35] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:35] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":10272128,"group_id":362656777,"message":"在国内","message_id":3597,"message_type":"group","post_type":"message","raw_message":"在国内","self_id":1135149924,"sender":{"age":26,"area":"","card":"海豹丶杰","level":"少侠","nickname":"地の恶魔","role":"admin","sex":"male","title":"百特米丶","user_id":282455296},"sub_type":"normal","time":1596012935,"user_id":282455296}
+[20-07-29 16:55:36] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:36] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":10266000,"group_id":362656777,"message":"又做个了东西 ","message_id":3598,"message_type":"group","post_type":"message","raw_message":"又做个了东西 ","self_id":1135149924,"sender":{"age":26,"area":"上海","card":"我希望明天➕51~","level":"大侠","nickname":"白","role":"admin","sex":"male","title":"最可爱的😁","user_id":418379149},"sub_type":"normal","time":1596012936,"user_id":418379149}
+[20-07-29 16:55:38] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:38] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":9988528,"group_id":1064022852,"message":"查刀","message_id":3599,"message_type":"group","post_type":"message","raw_message":"查刀","self_id":1135149924,"sender":{"age":23,"area":"重庆","card":"","level":"吐槽","nickname":"ぃyo梦哒","role":"member","sex":"male","title":"","user_id":1669574482},"sub_type":"normal","time":1596012938,"user_id":1669574482}
+[20-07-29 16:55:39] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:39] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":9988528,"group_id":1064022852,"message":"请在面板中查看：http://server.whitemagic2014.com:9222/yobot/clan/1064022852/progress/","message_id":3600,"message_type":"group","post_type":"message","raw_message":"请在面板中查看：http://server.whitemagic2014.com:9222/yobot/clan/1064022852/progress/","self_id":1135149924,"sender":{"age":28,"area":"上海","card":"","level":"活跃","nickname":"XML小茉莉","role":"member","sex":"male","title":"","user_id":3302337473},"sub_type":"normal","time":1596012939,"user_id":3302337473}
+[20-07-29 16:55:41] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:41] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":10272016,"group_id":362656777,"message":"当然是国内的人监控。。","message_id":3601,"message_type":"group","post_type":"message","raw_message":"当然是国内的人监控。。","self_id":1135149924,"sender":{"age":26,"area":"","card":"海豹丶杰","level":"少侠","nickname":"地の恶魔","role":"admin","sex":"male","title":"百特米丶","user_id":282455296},"sub_type":"normal","time":1596012941,"user_id":282455296}
+[20-07-29 16:55:41] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:41] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":10014120,"group_id":362656777,"message":"！能吃 豆腐","message_id":3602,"message_type":"group","post_type":"message","raw_message":"！能吃 豆腐","self_id":1135149924,"sender":{"age":26,"area":"上海","card":"我希望明天➕51~","level":"大侠","nickname":"白","role":"admin","sex":"male","title":"最可爱的😁","user_id":418379149},"sub_type":"normal","time":1596012941,"user_id":418379149}
+[20-07-29 16:55:48] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:55:48] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":9961656,"group_id":362656777,"message":"草 为什么","message_id":3604,"message_type":"group","post_type":"message","raw_message":"草 为什么","self_id":1135149924,"sender":{"age":26,"area":"上海","card":"我希望明天➕51~","level":"大侠","nickname":"白","role":"admin","sex":"male","title":"最可爱的😁","user_id":418379149},"sub_type":"normal","time":1596012948,"user_id":418379149}
+[20-07-29 16:56:03] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:56:03] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":9961656,"group_id":362656777,"message":"瞬间打脸","message_id":3605,"message_type":"group","post_type":"message","raw_message":"瞬间打脸","self_id":1135149924,"sender":{"age":26,"area":"上海","card":"我希望明天➕51~","level":"大侠","nickname":"白","role":"admin","sex":"male","title":"最可爱的😁","user_id":418379149},"sub_type":"normal","time":1596012963,"user_id":418379149}
+[20-07-29 16:56:07] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] 收到新请求: CQHttp/4.15.0
+[20-07-29 16:56:07] [PicqBotX] [DEBUG(java.lang.Thread.run:745)] - 数据: {"anonymous":null,"font":9961656,"group_id":362656777,"message":"总之就是看程度","message_id":3606,"message_type":"group","post_type":"message","raw_message":"总之就是看程度","self_id":1135149924,"sender":{"age":0,"area":"","card":"我要白又大！","level":"师兄","nickname":"NZ最棒了！","role":"admin","sex":"unknown","title":"蒙蒙的蒙蒙","user_id":2389239892},"sub_type":"normal","time":1596012967,"user_id":2389239892}
